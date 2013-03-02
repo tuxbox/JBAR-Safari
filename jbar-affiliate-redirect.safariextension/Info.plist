@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Iulius Gutberlet</string>
+	<key>Builder Version</key>
+	<string>8536.26.17</string>
+	<key>CFBundleDisplayName</key>
+	<string>Jupiter Broadcasting Affiliate Redirect</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.jupiterbroadcasting.jbar-affiliate-redirect</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>Start</key>
+			<array>
+				<string>scripts/jupiter.partners.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>This extension applies Jupiter Broadcasting's Affiliate pages.</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>*.amazon.com</string>
+				<string>*.amazon.co.uk</string>
+				<string>*.amazon.de</string>
+				<string>*.amazon.ca</string>
+				<string>*.audible.com</string>
+				<string>*.mint.com</string>
+				<string>*.bestbuy.com</string>
+				<string>*.thinkgeek.com</string>
+				<string>*.newegg.com</string>
+				<string>*.newegg.ca</string>
+				<string>*.guitarcenter.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://www.jupiterbroadcasting.com/extension/jbar-safari.plist</string>
+	<key>Website</key>
+	<string>http://www.jupiterbroadcasting.com</string>
+</dict>
+</plist>
