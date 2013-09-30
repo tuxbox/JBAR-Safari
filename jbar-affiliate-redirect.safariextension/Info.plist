@@ -48,6 +48,7 @@
 				<string>*.thinkgeek.com</string>
 				<string>*.newegg.com</string>
 				<string>*.newegg.ca</string>
+				<string>*.woot.com</string>
 				<string>*.guitarcenter.com</string>
 			</array>
 			<key>Include Secure Pages</key>
