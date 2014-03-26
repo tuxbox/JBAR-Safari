@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Iulius Gutberlet</string>
 	<key>Builder Version</key>
-	<string>8536.26.17</string>
+	<string>9537.74.9</string>
 	<key>CFBundleDisplayName</key>
 	<string>Jupiter Broadcasting Affiliate Redirect</string>
 	<key>CFBundleIdentifier</key>
@@ -38,13 +38,8 @@
 		<dict>
 			<key>Allowed Domains</key>
 			<array>
-				<string>*.amazon.com</string>
-				<string>*.amazon.co.uk</string>
-				<string>*.amazon.de</string>
-				<string>*.amazon.ca</string>
 				<string>*.audible.com</string>
 				<string>*.mint.com</string>
-				<string>*.bestbuy.com</string>
 				<string>*.thinkgeek.com</string>
 				<string>*.newegg.com</string>
 				<string>*.newegg.ca</string>
